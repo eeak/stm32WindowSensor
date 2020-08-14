@@ -2,6 +2,8 @@
 
 # stm32WindowSensor
 
+https://habr.com/ru/post/482858/
+
 *RF window sensors: STM32L + RFM69 + Android*
 
 This is a DIY windows monitorig system that consist of:
